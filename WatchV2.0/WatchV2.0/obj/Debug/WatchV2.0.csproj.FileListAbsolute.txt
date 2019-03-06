@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2017\Projects\WatchV2.0\WatchV2.0\bin\Debug\WatchV2.0.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\WatchV2.0\WatchV2.0\bin\Debug\WatchV2.0.exe
+c:\users\admin\documents\visual studio 2017\Projects\WatchV2.0\WatchV2.0\bin\Debug\WatchV2.0.pdb
+c:\users\admin\documents\visual studio 2017\Projects\WatchV2.0\WatchV2.0\obj\Debug\WatchV2._0.Dong_Ho.resources
+c:\users\admin\documents\visual studio 2017\Projects\WatchV2.0\WatchV2.0\obj\Debug\WatchV2._0.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2017\Projects\WatchV2.0\WatchV2.0\obj\Debug\WatchV2.0.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2017\Projects\WatchV2.0\WatchV2.0\obj\Debug\WatchV2.0.exe
+c:\users\admin\documents\visual studio 2017\Projects\WatchV2.0\WatchV2.0\obj\Debug\WatchV2.0.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\WatchV2.0\WatchV2.0\obj\Debug\WatchV2.0.csprojResolveAssemblyReference.cache
